@@ -10,4 +10,4 @@ Notre projet est structuré de la manière suivante:
 
 - **properties** : Le fichier properties.conf contenant les configurations nécessaires, c'est-à-dire le chemin des données, le chemin d'exportation et le nombre de classes utilisées pour la méthode des K-means.
 
-
+- **output** : Le fichier Bristol-city-bike.html correspondant à la carte issue du clustering.
